@@ -1,0 +1,4 @@
+AuthName "Login title"
+AuthType Basic
+AuthUserFile /home/mnbtcom/public_html/hst/admin/.htpasswd
+require valid-user
